@@ -1,4 +1,4 @@
-# HospitalManagementSystem
+# Hospital Management System
 1. This is Hospital Management System Project developed using JFrame, awt, swing & mySQL DB.
 2. I have provided all the feature which is needed to run the hospital like...
 3. Add New Patient : when new customer comes then all the information is taken of the patient at the reception.
